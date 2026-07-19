@@ -17,9 +17,10 @@ making this project a realistic end-to-end EDA workflow.
 
 ## Key Findings
 - Total Revenue of $1,785,279.55 and Margin of $830,026.42,	representing a overall profitability of 46.49%
-- Top clients and regions ranked by total revenue and margin
-- Product type breakdown showing highest and lowest profitability
-- Period analysis revealing margin trends across billing cycles
+- Chile and Canada lead in Revenue, however Canada shows the highest Margin, suggesting stronger profitability despite similar sales volumes.
+- Jones & Sons leads in Revenue with 19.77%, followed by Breitenberg-Mosciski with 15.04%. However, Breitenberg-Mosciski takes the top position in Margin with 17.43%, while Jones & Sons drops to 12.69%, suggesting higher operational costs relative to its sales volume.
+- QUOKAR leads with 20% of total Revenue among all product types, followed by CHOTUS and DONANY with a combined 28%. However, DONANY and CHOTUS together account for nearly a third of total Margin, while QUOKAR contributes only 11%, indicating lower profitability relative to its sales volume.
+- Odd periods (1st, 3rd, 5th) consistently outperform even periods in both Revenue and Margin, with Period 1 leading overall results.
 
 ## Tools Used
 - Python 3
